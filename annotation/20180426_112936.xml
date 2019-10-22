@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Rope access</folder>
+	<filename>20180426_112936.jpg</filename>
+	<path>D:\Seafile\Archive\Projects\125 IWAUC\WP1\fotos 04-26-2018\Rope access\20180426_112936.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>2268</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SD</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1240</xmin>
+			<ymin>1018</ymin>
+			<xmax>1309</xmax>
+			<ymax>1068</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SD</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1785</xmin>
+			<ymin>749</ymin>
+			<xmax>1859</xmax>
+			<ymax>794</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SD</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2124</xmin>
+			<ymin>1084</ymin>
+			<xmax>2201</xmax>
+			<ymax>1178</ymax>
+		</bndbox>
+	</object>
+</annotation>

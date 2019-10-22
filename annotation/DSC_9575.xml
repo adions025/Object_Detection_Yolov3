@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Jaap</folder>
+	<filename>DSC_9575.jpg</filename>
+	<path>S:\Archive\Projects\125 IWAUC\WP1\fotos 12-01-2018\Jaap\DSC_9575.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>7360</width>
+		<height>4912</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Erosion 2</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>3246</ymin>
+			<xmax>7360</xmax>
+			<ymax>3681</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SD 1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2889</xmin>
+			<ymin>2284</ymin>
+			<xmax>3864</xmax>
+			<ymax>2640</ymax>
+		</bndbox>
+	</object>
+</annotation>

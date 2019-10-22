@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Jaap</folder>
+	<filename>DSC_9525.jpg</filename>
+	<path>S:\Archive\Projects\125 IWAUC\WP1\fotos 12-01-2018\Jaap\DSC_9525.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>7360</width>
+		<height>4912</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SD 1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1157</xmin>
+			<ymin>2215</ymin>
+			<xmax>1395</xmax>
+			<ymax>2471</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SD 1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2201</xmin>
+			<ymin>2134</ymin>
+			<xmax>2582</xmax>
+			<ymax>2427</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SD 1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4120</xmin>
+			<ymin>2184</ymin>
+			<xmax>4370</xmax>
+			<ymax>2371</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SD 1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4720</xmin>
+			<ymin>3059</ymin>
+			<xmax>5682</xmax>
+			<ymax>3727</ymax>
+		</bndbox>
+	</object>
+</annotation>

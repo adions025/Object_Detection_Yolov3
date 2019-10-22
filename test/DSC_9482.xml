@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Jaap</folder>
+	<filename>DSC_9482.jpg</filename>
+	<path>S:\Archive\Projects\125 IWAUC\WP1\fotos 12-01-2018\Jaap\DSC_9482.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>7360</width>
+		<height>4912</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SD 3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3039</xmin>
+			<ymin>2777</ymin>
+			<xmax>3739</xmax>
+			<ymax>2940</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SD 2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2651</xmin>
+			<ymin>2327</ymin>
+			<xmax>5420</xmax>
+			<ymax>2827</ymax>
+		</bndbox>
+	</object>
+</annotation>

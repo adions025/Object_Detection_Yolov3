@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Jaap</folder>
+	<filename>DSC_9560.jpg</filename>
+	<path>S:\Archive\Projects\125 IWAUC\WP1\fotos 12-01-2018\Jaap\DSC_9560.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>7360</width>
+		<height>4912</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SD 2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3382</xmin>
+			<ymin>2496</ymin>
+			<xmax>3782</xmax>
+			<ymax>3121</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Erosion 2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3789</xmin>
+			<ymin>2690</ymin>
+			<xmax>7326</xmax>
+			<ymax>3290</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Erosion 2</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2809</ymin>
+			<xmax>3357</xmax>
+			<ymax>3430</ymax>
+		</bndbox>
+	</object>
+</annotation>

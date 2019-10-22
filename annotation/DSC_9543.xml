@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Jaap</folder>
+	<filename>DSC_9543.jpg</filename>
+	<path>S:\Archive\Projects\125 IWAUC\WP1\fotos 12-01-2018\Jaap\DSC_9543.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>7360</width>
+		<height>4912</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Erosion 1</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1190</ymin>
+			<xmax>7332</xmax>
+			<ymax>2470</ymax>
+		</bndbox>
+	</object>
+</annotation>

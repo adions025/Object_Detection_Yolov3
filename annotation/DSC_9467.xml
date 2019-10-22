@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Jaap</folder>
+	<filename>DSC_9467.jpg</filename>
+	<path>S:\Archive\Projects\125 IWAUC\WP1\fotos 12-01-2018\Jaap\DSC_9467.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>7360</width>
+		<height>4912</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Erosion 3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2501</xmin>
+			<ymin>2271</ymin>
+			<xmax>3889</xmax>
+			<ymax>2721</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Erosion 2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>2215</ymin>
+			<xmax>2520</xmax>
+			<ymax>2671</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Erosion 2</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3882</xmin>
+			<ymin>2371</ymin>
+			<xmax>7360</xmax>
+			<ymax>2788</ymax>
+		</bndbox>
+	</object>
+</annotation>
